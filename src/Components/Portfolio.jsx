@@ -32,8 +32,7 @@ const imageAltText = "table with laptop on top";
 const projectList = [
   {
     title: "Calculadora de Média",
-    description:
-      "Calculadora de Média Simples, Feita utilizando HTML, CSS e JavaScript.",
+    description: "Calculadora de Média Simples, Feita utilizando HTML, CSS e JavaScript.",
     url: "https://github.com/Fransuelton/calculadora-de-media",
   },
   {
@@ -44,14 +43,12 @@ const projectList = [
   },
   {
     title: "",
-    description:
-      "",
+    description: "",
     url: "",
   },
   {
     title: "",
-    description:
-      "",
+    description: "",
     url: "",
   },
 ];
